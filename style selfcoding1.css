@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header{
+background-color: darkcyan;
+text-align: center;
+padding-bottom: 20px;
+padding-top: 20px;
+}
+.section-title{
+  color: darkcyan;
+  margin-bottom: 1px;
+  margin-top: 60px;
+  }
+.second-title{
+  font-weight: bold;
+  margin-top: 4px;
+}
+main{
+  padding: 10px;
+}
+.under-section{
+  border-top: 1px solid darkcyan;
+  margin-bottom: 20px;
+}
+footer{
+  border-top: 2px solid darkcyan;
+}
